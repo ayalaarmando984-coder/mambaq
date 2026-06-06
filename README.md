@@ -2,7 +2,7 @@
 
 App web para niños de 3 a 12 años. Toman una foto de su dibujo, eligen el estilo de un maestro del arte, y la IA transforma su obra al estilo elegido. Las obras quedan guardadas en una galería pública compartida.
 
-Proyecto académico — Universidad Simón Bolívar, Barranquilla (Ingeniería de Sistemas).
+Proyecto académico — Universidad Simón Bolívar, Barranquilla (Ingeniería de Sistemas)
 
 ---
 
