@@ -174,7 +174,7 @@ Login → Home → Cámara → (IA clasifica) → Formulario → Preview → Pro
 ## Equipo
 
 Universidad Simón Bolívar — Barranquilla  
-Ingeniería de Sistemas
+Ingeniería de Sistemas.
 
 ---
 
